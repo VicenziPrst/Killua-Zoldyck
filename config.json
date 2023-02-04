@@ -1,21 +1,21 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "UkV7EdTj"
   },
   "options": {
     "autoRead": false,
     "self": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 100,
+    "limitGame": 100
   },
   "exif": {
     "packname": "zenzapis",
     "author": "https://zenzapis.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6281269734000"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Subscribe YT : DemonGT"
 }
